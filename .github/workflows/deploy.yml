@@ -1,7 +1,10 @@
 name: GitHub Pages'e Dağıt
 
-# Site Vercel'de yayınlanıyor. GitHub Pages'e dağıtım yalnızca elle (Actions sekmesinden) başlatılır.
+# Site iki adreste yayınlanır: Vercel (ana adres) ve GitHub Pages (*.vercel.app'in engellendiği
+# ağlar için yedek adres). main dalına her push'ta Pages kopyası da güncellenir.
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
