@@ -1,0 +1,20 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.tsbuildinfo
+coverage
+.vite
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Yerel araç ayarları
+.claude
+.vercel
+.env*
