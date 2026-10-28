@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pis-yedili-neon.vercel.app/sitemap.xml
+Sitemap: https://dizzycray.github.io/pis-yedili-neon/sitemap.xml

@@ -7,9 +7,9 @@ Arayüz tamamen Türkçedir; masaüstü ve mobilde çalışır.
 - **Yerel çok oyunculu:** aynı cihazda 2–4 koltuk; her koltuk insan ya da bot olabilir. Alt tarafta yalnızca sırası gelen insan oyuncunun eli açık görünür.
 - 4 tur, en düşük toplam puan kazanır
 
-**Oyna:** https://pis-yedili-neon.vercel.app
-(Bazı internet sağlayıcıları `*.vercel.app` adreslerini engelliyor; açılmazsa yedek adres:
-https://dizzycray.github.io/pis-yedili-neon/)
+**Oyna:** https://dizzycray.github.io/pis-yedili-neon/
+(Aynı oyun https://pis-yedili-neon.vercel.app adresinde de yayında; ancak bazı internet
+sağlayıcıları ve cihazlar `*.vercel.app` adreslerine erişemediği için asıl adres GitHub Pages.)
 
 ## Kurulum ve çalıştırma
 
